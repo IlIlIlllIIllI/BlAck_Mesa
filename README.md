@@ -37,6 +37,7 @@
 
 개발에 사용한 기술 - 유니티(C#) 
 개발에 소요된 물품 및 준비물 - 
+font : DungGeunMo / UI : Pixel UI, bSimplePixelUI
 
 ## 프로젝트 진행 과정(월별 진행상황)
 
@@ -117,7 +118,7 @@
 
 ## 결과 및 발표 자료
 
-- [깃허브 저장소 주소](https://github.com/IlIlIlllIIllI/BlAck_Mesa)
+- [깃허브 저장소 주소]
 
 - 실행 주소(웹)
  
@@ -125,9 +126,10 @@
    
 - 프로젝트 소개 영상 / 팀 소개 영상
     
-- 계획 발표 자료
-   
-- 중간 발표 자료[경북소프트웨어고등학교 JSP 실습평가 문제.pdf](https://github.com/IlIlIlllIIllI/BlAck_Mesa/files/9044045/JSP.pdf)
+
+- 계획 발표 자료 [산학분반1팀_블랙 메사.pptx](https://github.com/IlIlIlllIIllI/BlAck_Mesa/files/9053941/1._.pptx)
+
+- 중간 발표 자료 [북소프트웨어고등학교 JSP 실습평가 문제.pdf](https://github.com/IlIlIlllIIllI/BlAck_Mesa/files/9044045/JSP.pdf)
  
 - 최종 발표 자료
 
