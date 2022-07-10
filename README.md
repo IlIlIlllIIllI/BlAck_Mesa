@@ -28,7 +28,18 @@
 
 ## 팀소개
  - 사진
-  - 이름
+- 팀장 : 이도건 / 팀원 : 권내규, 배준우, 송도현, 신세웅
+
+이도건(dg041124@gmail.com) : 
+
+권내규(azaz77884689@gmail.com) : 
+
+배준우(edwin2514381@naver.com) : 
+
+송도현(ghuijeong67@gmail.com) : 
+
+신세웅(sw427531@gmail.com) : 
+
   - 이메일
   - 역할
   - 깃허브(또는 개인사이트)
@@ -127,7 +138,7 @@
     
 - 계획 발표 자료
    
-- 중간 발표 자료[경북소프트웨어고등학교 JSP 실습평가 문제.pdf](https://github.com/IlIlIlllIIllI/BlAck_Mesa/files/9044045/JSP.pdf)
+- 중간 발표 자료[--PPT___3.pptx](https://github.com/IlIlIlllIIllI/BlAck_Mesa/files/9080081/--PPT___3.pptx) 
  
 - 최종 발표 자료
 
