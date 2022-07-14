@@ -261,7 +261,7 @@ OX게임 : OX 게임은 등장하는 질문에 O,X 중 알맞은 정답을 선�
 
 - [깃허브 저장소 주소](https://github.com/IlIlIlllIIllI/BlAck_Mesa)
    
-- 프로젝트 소개 영상 / 팀 소개 영상 https://user-images.githubusercontent.com/108465094/178943164-43ffd589-7abe-4ea5-87e8-12bb5d572cb9.mp4
+- 프로젝트 소개 영상 / 팀 소개 영상 Uploading 팀소개 2.mp4…
 
 - 계획 발표 자료  [산학분반1팀_블랙 메사.pptx](https://github.com/IlIlIlllIIllI/BlAck_Mesa/files/9081203/1._.pptx)
    
