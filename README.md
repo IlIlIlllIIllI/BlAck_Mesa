@@ -28,7 +28,12 @@
 
 ## 팀소개
 
-- 사진
+![이도건](https://user-images.githubusercontent.com/108465094/178937979-c31e5acd-b2af-47b4-889e-09462e88d0d3.jpg)
+![권내규](https://user-images.githubusercontent.com/108465094/178937965-7d282d44-6e31-4030-9938-b32b0c74b2c4.jpg)
+![배준우](https://user-images.githubusercontent.com/108465094/178937969-d1d111d7-c736-4af4-9316-2642df5ca28d.jpg)
+![송도현](https://user-images.githubusercontent.com/108465094/178937973-d660ee2b-cc3d-4787-b21c-8dbfd31551cf.jpg)
+![신세웅](https://user-images.githubusercontent.com/108465094/178937977-93ed66ce-83a9-424b-a64e-7a48c89856b9.jpg)
+
 
 팀장 : 이도건 / 팀원 : 권내규, 배준우, 송도현, 신세웅
 
@@ -136,4 +141,5 @@
    
 - 중간 발표 자료 [--PPT___3.pptx](https://github.com/IlIlIlllIIllI/BlAck_Mesa/files/9080081/--PPT___3.pptx) 
  
-- 최종 발표 자료 [14__BlackMesa.pptx](https://github.com/IlIlIlllIIllI/BlAck_Mesa/files/9083247/14__BlackMesa.pptx)
+- 최종 발표 자료 [14주후_최종발표_BlackMesa.zip](https://github.com/IlIlIlllIIllI/BlAck_Mesa/files/9109941/14._._BlackMesa.zip)
+
